@@ -1,4 +1,4 @@
-module github.com/square/mongo-lock
+module github.com/thangtran0206/mongo-lock
 
 go 1.13
 
